@@ -7,3 +7,5 @@ The goal of these competitions is to provide a fun and approachable-for-anyone t
 
 For each monthly competition, we'll be offering Kaggle Merchandise for the top three teams. And finally, because we want these competitions to be more about learning, we're limiting team sizes to 3 individuals.
 https://www.kaggle.com/competitions/tabular-playground-series-aug-2022
+my rank in this competition 513 of 1888
+my profile :https://www.kaggle.com/mohamedalisalama
